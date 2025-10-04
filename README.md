@@ -3,6 +3,24 @@
 This project is my **Task 4** submission for the Data Science Internship at SkillCraft Technology.  
 It focuses on analyzing and visualizing the **US Accidents Dataset**.
 
+---
+
+## 📂 Dataset
+The dataset is available on Kaggle:  
+👉 [US Accidents (2016 - 2023) Dataset](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents?resource=download)
+
+### 🔧 Setup Instructions
+1. Download the dataset from the Kaggle link above.  
+2. Extract the downloaded file **in the same folder where `accident_analysis.py` is located**.  
+   - After extraction, you should see:  
+     ```
+     accident_analysis.py
+     US_Accidents_March23.csv
+     ```
+3. Run the code:  
+   ```bash
+   python accident_analysis.py
+
 ## 📂 Files Generated
 - `accidents_by_day_fast.png` → Accidents by day of the week  
 - `accidents_by_hour_fast.png` → Accidents by hour of day  
